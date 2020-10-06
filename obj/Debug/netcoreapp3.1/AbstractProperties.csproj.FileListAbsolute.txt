@@ -1,0 +1,13 @@
+C:\Users\kirkv\source\repos\Objects\bin\Debug\netcoreapp3.1\AbstractProperties.exe
+C:\Users\kirkv\source\repos\Objects\bin\Debug\netcoreapp3.1\AbstractProperties.deps.json
+C:\Users\kirkv\source\repos\Objects\bin\Debug\netcoreapp3.1\AbstractProperties.runtimeconfig.json
+C:\Users\kirkv\source\repos\Objects\bin\Debug\netcoreapp3.1\AbstractProperties.runtimeconfig.dev.json
+C:\Users\kirkv\source\repos\Objects\bin\Debug\netcoreapp3.1\AbstractProperties.dll
+C:\Users\kirkv\source\repos\Objects\bin\Debug\netcoreapp3.1\AbstractProperties.pdb
+C:\Users\kirkv\source\repos\Objects\obj\Debug\netcoreapp3.1\AbstractProperties.csprojAssemblyReference.cache
+C:\Users\kirkv\source\repos\Objects\obj\Debug\netcoreapp3.1\AbstractProperties.AssemblyInfoInputs.cache
+C:\Users\kirkv\source\repos\Objects\obj\Debug\netcoreapp3.1\AbstractProperties.AssemblyInfo.cs
+C:\Users\kirkv\source\repos\Objects\obj\Debug\netcoreapp3.1\AbstractProperties.csproj.CoreCompileInputs.cache
+C:\Users\kirkv\source\repos\Objects\obj\Debug\netcoreapp3.1\AbstractProperties.dll
+C:\Users\kirkv\source\repos\Objects\obj\Debug\netcoreapp3.1\AbstractProperties.pdb
+C:\Users\kirkv\source\repos\Objects\obj\Debug\netcoreapp3.1\AbstractProperties.genruntimeconfig.cache
